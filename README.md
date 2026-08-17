@@ -17,17 +17,16 @@ Tenho atuação em desenvolvimento, manutenção e evolução de sistemas de ges
 
 ## 🛠️ Tecnologias e ferramentas
 
-- Delphi
-- Firebird
-- SQL
-- Git
-- GitHub
-- REST API
-- Web Services
-- ACBr
-- FastReport
-- DevExpress
-- JavaScript
+![Delphi](https://img.shields.io/badge/Delphi-E62431?style=for-the-badge&logo=delphi&logoColor=white)
+![Firebird](https://img.shields.io/badge/Firebird-EE4000?style=for-the-badge)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![REST API](https://img.shields.io/badge/REST%20API-005571?style=for-the-badge)
+![ACBr](https://img.shields.io/badge/ACBr-0066CC?style=for-the-badge)
+![FastReport](https://img.shields.io/badge/FastReport-4B0082?style=for-the-badge)
+![DevExpress](https://img.shields.io/badge/DevExpress-FF7200?style=for-the-badge)
 
 ## 💼 Áreas de experiência
 
