@@ -1,8 +1,8 @@
 # Olá! Eu sou a Cíntia Mayumi Abe 👋
 
-💻 Desenvolvedora de Sistemas com experiência em **Delphi, SQL, Firebird e sistemas ERP**.
+## Desenvolvedora Delphi | ERP | SQL | Firebird | APIs REST
 
-Tenho atuação em desenvolvimento, manutenção e evolução de sistemas de gestão, com experiência em módulos financeiros, fiscais, comerciais, CRM, PDV e integrações bancárias.
+💻 Desenvolvedora de Sistemas com experiência em desenvolvimento, manutenção e evolução de sistemas ERP, atuando em módulos financeiros, fiscais, comerciais, CRM, PDV, integrações bancárias e regras de negócio.
 
 ## 🚀 Sobre mim
 
@@ -53,5 +53,6 @@ Tenho experiência com:
 
 ## 📫 Contato
 
-- LinkedIn: https://www.linkedin.com/in/cintia-mayumi/
-- GitHub: `abemayumi`
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Cíntia%20Mayumi%20Abe-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cintia-mayumi/)
+
+[![GitHub](https://img.shields.io/badge/GitHub-abemayumi-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/abemayumi)
