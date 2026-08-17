@@ -12,7 +12,7 @@
 - 🗄️ SQL e Firebird
 - 🧩 Delphi, ACBr, DevExpress e FastReport
 - 🧪 Testes, validações, correção de inconsistências e regras de negócio
-- 📚 Atualmente aprimorando meus conhecimentos em Git, GitHub e JavaScript
+- 📚 Atualmente aprimorando meus conhecimentos em Git, GitHub e SAP ABAP
 - 🎯 Interesse em oportunidades como Desenvolvedora Delphi / Desenvolvedora de Sistemas
 
 ## 🛠️ Tecnologias e ferramentas
@@ -37,19 +37,23 @@ Tenho experiência com:
 - Boletos e integrações bancárias
 - CNAB 240 e 400
 - PIX
+- ACBr
 - CRM
 - PDV
 - Rotinas fiscais e comerciais
 - Consultas SQL
 - Análise de inconsistências
 - APIs e integrações
+- Testes e validações
+- Regras de negócio
 
-## 📚 Atualmente estudando
+## 📚 Estudos e aprimoramento
 
 - Git e GitHub
-- JavaScript
+- SAP ABAP
 - Boas práticas de desenvolvimento
 - Evolução profissional em novas tecnologias
+- JavaScript — fundamentos estudados
 
 ## 📫 Contato
 
