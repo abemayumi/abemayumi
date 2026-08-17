@@ -1,16 +1,58 @@
-## Hi there 👋
+# Olá! Eu sou a Cíntia Mayumi Abe 👋
 
-<!--
-**abemayumi/abemayumi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Desenvolvedora de Sistemas com experiência em **Delphi, SQL, Firebird e sistemas ERP**.
 
-Here are some ideas to get you started:
+Tenho atuação em desenvolvimento, manutenção e evolução de sistemas de gestão, com experiência em módulos financeiros, fiscais, comerciais, CRM, PDV e integrações bancárias.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Sobre mim
+
+- 💻 Desenvolvimento e manutenção de sistemas ERP
+- 🏦 Integrações bancárias, boletos, CNAB e PIX
+- 🔗 APIs REST, Web Services e integrações com sistemas externos
+- 🗄️ SQL e Firebird
+- 🧩 Delphi, ACBr, DevExpress e FastReport
+- 🧪 Testes, validações, correção de inconsistências e regras de negócio
+- 📚 Atualmente aprimorando meus conhecimentos em Git, GitHub e JavaScript
+- 🎯 Interesse em oportunidades como Desenvolvedora Delphi / Desenvolvedora de Sistemas
+
+## 🛠️ Tecnologias e ferramentas
+
+- Delphi
+- Firebird
+- SQL
+- Git
+- GitHub
+- REST API
+- Web Services
+- ACBr
+- FastReport
+- DevExpress
+- JavaScript
+
+## 💼 Áreas de experiência
+
+Tenho experiência com:
+
+- Sistemas ERP
+- Financeiro e cobrança
+- Boletos e integrações bancárias
+- CNAB 240 e 400
+- PIX
+- CRM
+- PDV
+- Rotinas fiscais e comerciais
+- Consultas SQL
+- Análise de inconsistências
+- APIs e integrações
+
+## 📚 Atualmente estudando
+
+- Git e GitHub
+- JavaScript
+- Boas práticas de desenvolvimento
+- Evolução profissional em novas tecnologias
+
+## 📫 Contato
+
+- LinkedIn: https://www.linkedin.com/in/cintia-mayumi/
+- GitHub: `abemayumi`
